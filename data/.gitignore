@@ -1,0 +1,4 @@
+*
+!.gitignore
+!conf.json.example
+!pgxo.owl

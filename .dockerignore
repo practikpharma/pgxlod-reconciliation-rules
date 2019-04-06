@@ -1,0 +1,5 @@
+.gitignore
+.git/
+**/*.pyc
+data/
+test/
